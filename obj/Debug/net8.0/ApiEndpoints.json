@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "CurrencyExchangeSOAP.Controllers.CurrencyExchangeController",
+    "Method": "ConvertCurrency",
+    "RelativePath": "api/CurrencyExchange/convert",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromCurrency",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toCurrency",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "amount",
+        "Type": "System.Double",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CurrencyExchangeSOAP.Controllers.CurrencyExchangeController",
+    "Method": "GetSupportedCurrencies",
+    "RelativePath": "api/CurrencyExchange/currencies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

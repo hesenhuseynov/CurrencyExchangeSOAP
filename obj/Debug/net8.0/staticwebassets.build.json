@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sZ5inNeXu80PlpIS+V4zmm8CtleHZHZ4UPkLKSEDa+4=",
+  "Source": "CurrencyExchangeSOAP",
+  "BasePath": "_content/CurrencyExchangeSOAP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

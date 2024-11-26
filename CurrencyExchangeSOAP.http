@@ -1,0 +1,6 @@
+@CurrencyExchangeSOAP_HostAddress = http://localhost:5181
+
+GET {{CurrencyExchangeSOAP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
